@@ -1,0 +1,5 @@
+pyjwt==1.5.3
+Flask==2.0.1
+requests==2.25.1
+python-jose==3.3.0
+xmltodict==0.12.0
